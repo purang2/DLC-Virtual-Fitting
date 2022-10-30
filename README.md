@@ -1,11 +1,12 @@
-# 2021 DLC
+# 2021 DLC: Virtual Fitting Project
 
 ## Member
 |name |   |
 |-----|---|
-|김현민| Hyunmin-K |
-|이광열| choco1692 |
-|제갈건| geon-j    |
+|김현민| [@Hyunmin-K](https://github.com/Hyunmin-K) |
+|이광열| [@choco1692](https://github.com/choco1692) |
+|제갈건| [@geon-j](https://github.com/geon-j)    |
+|이은찬 (TA)| [@purang2](https://github.com/purang2)    |
 
 # Objection
  딥러닝을 활용한 가상 피팅 시스템
